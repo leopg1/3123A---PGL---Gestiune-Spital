@@ -8,6 +8,9 @@ inregistrarea pacientilor si a personalului, planificarea programarilor (cu
 detectarea conflictelor de orar), internarea pacientilor, emiterea facturilor
 si persistenta datelor in format JSON.
 
+> 📄 **Documentatie completa (stil lucrare):** [docs/Documentatie_Proiect_Spital.pdf](docs/Documentatie_Proiect_Spital.pdf)
+> — 19 pagini cu diagrame UML, explicatii ale conceptelor POO, concluzii si bibliografie.
+
 ---
 
 ## Cuprins
@@ -65,6 +68,8 @@ Proiect POO/
 ├── tests/
 │   └── test_spital.cpp       # teste unitare (fara biblioteci externe)
 ├── docs/
+│   ├── Documentatie_Proiect_Spital.pdf  # documentatie completa stil lucrare
+│   ├── Documentatie_Proiect_Spital.html # sursa documentatiei PDF
 │   ├── documentatie.md       # descrierea claselor + concepte POO
 │   └── uml.md                # diagrame UML (clase + relatii)
 ├── data/
