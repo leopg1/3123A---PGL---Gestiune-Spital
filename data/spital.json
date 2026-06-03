@@ -1,0 +1,47 @@
+{
+  "spital": "Spitalul Judetean de Urgenta",
+  "pacienti": [
+    {
+      "id": 1,
+      "nume": "Ion Popescu",
+      "cnp": "1900101221144",
+      "varsta": 35,
+      "diagnostic": "pneumonie"
+    },
+    {
+      "id": 2,
+      "nume": "Maria Ionescu",
+      "cnp": "2920202221155",
+      "varsta": 42,
+      "diagnostic": "fractura"
+    },
+    {
+      "id": 3,
+      "nume": "Andrei Vasilescu",
+      "cnp": "1850303221166",
+      "varsta": 50,
+      "diagnostic": "pneumonie"
+    }
+  ],
+  "angajati": [
+    {
+      "tip": "Medic",
+      "id": 10,
+      "nume": "Mihai Popa",
+      "cnp": "1700505221188",
+      "salariuBaza": 8000,
+      "specializare": "Cardiologie",
+      "sporSpecializare": 0.3
+    },
+    {
+      "tip": "Asistent",
+      "id": 20,
+      "nume": "Ioana Stan",
+      "cnp": "2880707221100",
+      "salariuBaza": 4000,
+      "sectie": "Cardiologie",
+      "sporTura": 600
+    }
+  ],
+  "facturi": []
+}
