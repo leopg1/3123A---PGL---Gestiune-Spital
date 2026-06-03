@@ -230,4 +230,5 @@ externe. Vezi exemplul din [data/spital.json](data/spital.json).
 
 ---
 
-*Autor: student ICE USV — proiect POO, grupa 3123A.*
+*Autor: Padurean Gabriel Leonard — Calculatoare, anul II, grupa 3123A.*
+*Coordonator: Prof. Remus Prodan — Facultatea de Inginerie Electrica si Stiinta Calculatoarelor, USV Suceava.*
