@@ -1,0 +1,19 @@
+# Artefacte de build
+/build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Fisiere de log generate la rulare
+*.log
+
+# Directoare specifice IDE-urilor
+.vscode/
+.idea/
+.vs/
+cmake-build-*/
+
+# Fisiere de sistem
+.DS_Store
+Thumbs.db
